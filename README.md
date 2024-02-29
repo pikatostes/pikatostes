@@ -26,7 +26,7 @@ Hola, soy Alejandro Ríos, también conocido como Pikatostes. Tengo una sólida 
 - Me mantengo actualizado en las últimas tecnologías a través de YouTube y redes sociales, siempre al día con las novedades.
 
 ## Contacto
-- Puedes encontrarme en mi [página web personal](enlace-a-tu-gh-pages).
+- Puedes encontrarme en mi [página web personal](https://pikatostes.github.io/).
 
 ## Metas Futuras
 - Mi meta es desarrollar mi propio videojuego en el futuro.
