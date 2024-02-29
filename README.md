@@ -12,9 +12,9 @@ Hola, soy Alejandro Ríos, también conocido como Pikatostes. Tengo una sólida 
 - Git
 
 ## Proyectos Destacados
-1. [Proyecto Final de React](enlace-al-repositorio): Desarrollé este proyecto como parte de mi formación, demostrando mis habilidades con React.
-2. [Proyecto Final de DAW](enlace-al-repositorio): Otro proyecto importante de mi formación, donde aplicé conocimientos en desarrollo de aplicaciones web.
-3. [ShareCare](enlace-al-repositorio): Un proyecto donde trabajé en [breve descripción del proyecto].
+1. [Proyecto Final de React](https://github.com/pikatostes/proyecto-final-react): Desarrollé este proyecto como parte de mi formación, demostrando mis habilidades con React.
+2. [Proyecto Final de DAW](https://github.com/pikatostes/Proyecto-Final-DAW): Otro proyecto importante de mi formación, donde aplicé conocimientos en desarrollo de aplicaciones web.
+3. [ShareCare](https://github.com/pikatostes/ShareCare): Fue mi proyecto final para la asignatura de Programación del primer año de mi CFGS de DAW.
 
 ## Colaboraciones
 - Aunque aún no he colaborado en proyectos open source, estoy abierto a futuras colaboraciones emocionantes.
