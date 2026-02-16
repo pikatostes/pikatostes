@@ -70,7 +70,7 @@ I’m currently looking for my **first professional experience / junior develope
 
 ## 🏗️ Featured Project
 
-### 🧱 LEGO Parts Store & Community Forum  
+### 🧱 <a href="https://github.com/pikatostes/proyecto-final-daw">Brickpoint</a> 
 
 **E-commerce + community platform for LEGO parts enthusiasts**
 
