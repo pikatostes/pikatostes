@@ -2,14 +2,14 @@
 <h3 align="center">Full-Stack & Mobile Developer | Junior Software Engineer | Passionate Problem Solver</h3>
 
 <p align="center">
-  <a href="https://github.com/TU_USUARIO">
-    <img src="https://komarev.com/ghpvc/?username=TU_USUARIO&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <a href="https://github.com/pikatostes">
+    <img src="https://komarev.com/ghpvc/?username=pikatostes&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
   </a>
-  <a href="https://github.com/TU_USUARIO?tab=followers">
-    <img src="https://img.shields.io/github/followers/TU_USUARIO?label=Followers&style=social" alt="followers" />
+  <a href="https://github.com/pikatostes?tab=followers">
+    <img src="https://img.shields.io/github/followers/pikatostes?label=Followers&style=social" alt="followers" />
   </a>
-  <a href="https://github.com/TU_USUARIO">
-    <img src="https://img.shields.io/github/stars/TU_USUARIO?label=Stars&style=social" alt="stars" />
+  <a href="https://github.com/pikatostes">
+    <img src="https://img.shields.io/github/stars/pikatostes?label=Stars&style=social" alt="stars" />
   </a>
 </p>
 
