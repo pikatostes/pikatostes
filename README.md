@@ -106,8 +106,8 @@ I’m currently looking for my **first professional experience / junior develope
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: https://linkedin.com/in/TU_LINKEDIN  
-- 📧 Email: tuemail@email.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/alejandro-r%C3%ADos-625064243/  
+- 📧 Email: alejandro.rios.cyt@gmail.com
 
 ---
 
